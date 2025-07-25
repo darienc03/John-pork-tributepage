@@ -1,2 +1,2 @@
-# John-pork-tributepage
+# john-pork-tributepage
 Hello, this is my template for a tribute page using John Pork as my example. Thank you for reading :)
